@@ -1,1 +1,1 @@
-![spaceship](benny.gif)
+![](benny.gif)
